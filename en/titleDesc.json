@@ -131,12 +131,12 @@
     },
     
     "support": {
-        "title": "Support - MinerGate",
+        "title": "Поддержка - MinerGate",
         "desc": "Support"
     },
 
     "webminer": {
-        "title": "Web Miner - MinerGate",
+        "title": "Веб майнер - MinerGate",
         "desc": "{{ webCurrencies }}"
     }
 }
